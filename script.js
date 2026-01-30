@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Базовые видео (всегда доступны)
     const defaultVideos = [
         {
-            id: 'v11',
+            id: 'v1',
             title: 'Shaders and textures',
             channelId: 'GreenLine',
             thumbnail: 'wow.jpg',
