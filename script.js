@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 'v11',
             title: 'Shaders and textures',
             channelId: 'GreenLine',
-            thumbnail: 'Video/wow/wow.jpg',
+            thumbnail: 'wow.jpg',
             videoSrc: 'Video/wow/wow.mp4',
             duration: '11:37',
             views: 1,
